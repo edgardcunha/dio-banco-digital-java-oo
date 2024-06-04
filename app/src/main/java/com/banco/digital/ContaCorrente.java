@@ -1,3 +1,5 @@
+package com.banco.digital;
+
 public class ContaCorrente extends Conta {
     
     public ContaCorrente(Cliente cliente) {
